@@ -85,9 +85,9 @@ bon = (
 
 ### B. Install _pixelshop_
 
-1. Clone the repository using `git clone <repo-url> <path-to-clone-to>`.
+1. Clone the repository using `git clone https://github.com/davidclemens/pixelshop.git <local-path-to-clone-to>`.
 2. Create a virtual python environment
-    1. `cd` into the directory of the repository
+    1. `cd` into the directory of the repository (`<local-path-to-clone-to>` above)
     2. Create a virtual python 3.12 environment with
 
         ```console
